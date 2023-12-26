@@ -17,6 +17,7 @@ The model should predict:
 
 PROJECT OVERVIEW:
 -- First of all,we need to check whether it is regression task or classifiction task...
+        
     It is a regression task as we have to predict a continuous value i.e. Car Purchase Amount.
 -- Here,we are going to use regression and Artificial Neural Networks to get this task done.
 
