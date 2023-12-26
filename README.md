@@ -47,3 +47,6 @@ So,here are the step I followed in this problem statement:
 
 --> Step-5: Evaluating the Model.Plot the graph of Model Loss Progression During Training/Validation between Training and Validation Losses and Number of Epochs.
 hence,find out the y_predict by X_test.
+
+
+                                                * FINALLY YOU GET THE WANTED CAR SALES AMOUNT!!*
